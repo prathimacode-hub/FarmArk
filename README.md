@@ -33,7 +33,7 @@ This app endorses with all the listed features stated below and a one-stop solut
 
 <h2>🙌Join Here</h2>
 
- I welcome all the open source enthusiasts who wants to join their hands in supporting this cause. Be a part of this initiative by applying your technical skills and all you had got as a developer. 
+ Warm invite to all the individuals who are looking forward to play their roles as a developer to label the pressing needs faced by farmers. 
  
 
 <h2>🔑Tech Stacks</h2>
