@@ -19,7 +19,7 @@ Agriculture is the backbone of our country (India) and a way of livelihood for m
 
 
 <p align="center">
-<img src="https://github.com/prathimacode-hub/FarmArk/blob/main/Readme_Assets/Agriculture.jpg"></a>
+<img src="https://github.com/prathimacode-hub/FarmArk/blob/main/Readme_Assets/Agriculture.jpg" width=340px height=200px>
 </p>
 
 
