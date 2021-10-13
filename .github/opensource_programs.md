@@ -2,7 +2,7 @@
 
 List of Open Source Events in which this project participated.
 
-- Script Winter Of Code (GWOC)
+- Script Winter Of Code (SWOC)
 
 Script Winter of Code is a three-month newly established initiative by Script Foundation to be conducted during winters. 
 SWOC encourages individuals to share their knowledge and ideas to develop technical skills and gain valuable experience in the field of tech education.✨
