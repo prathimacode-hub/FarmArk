@@ -68,9 +68,9 @@ https://prathimacode-hub.github.io/FarmArk/
 
 <h2>🛠Templates to Follow</h2>
 
-- [Feature request](https://github.com/prathimacode-hub/VoxUp/blob/main/.github/issue_template/feature_request.md)
-- [Bug Report](https://github.com/prathimacode-hub/VoxUp/blob/main/.github/issue_template/bug_report.md)
-- [Pull Request](https://github.com/prathimacode-hub/VoxUp/blob/main/.github/pullrequest_template.md)
+- [Feature request](https://github.com/prathimacode-hub/FarmArk/blob/main/.github/issue_template/feature_request.md)
+- [Bug Report](https://github.com/prathimacode-hub/FarmArk/blob/main/.github/issue_template/bug_report.md)
+- [Pull Request](https://github.com/prathimacode-hub/FarmArk/blob/main/.github/pullrequest_template.md)
 
 **Note** : One should follow these templates while creating a new issue or pull request.
 
