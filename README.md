@@ -97,7 +97,7 @@ This project was a part of these open source programs.
 <table>
 <tr>
  <td>
-<a href="https://github.com/prathimacode-hub"><img src="https://github.com/prathimacode-hub/prathimacode-hub/blob/main/OpenSource%20Programs/Script%20Winter%20Of%20Code/Script%20Winter%20Of%20Code.jpg" width=140px height=60px /></a>
+<a href="https://github.com/prathimacode-hub"><img src="https://github.com/prathimacode-hub/prathimacode-hub/blob/main/OpenSource%20Programs/Script%20Winter%20Of%20Code/Script%20Winter%20Of%20Code.jpg" width=80px height=60px /></a>
  </td>
 </tr>
 </table>
