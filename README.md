@@ -103,6 +103,18 @@ This project was a part of these open source programs.
 </table>
 
 
+<h2> 📊 Points Category</h2>
+
+| Level of Issues | Points Allocated |
+| - | - |
+| Beginner | 10 Points 🔰|
+| Easy | 20 Points 🌱|
+| Medium | 30 Points 🌕|
+| Hard | 40 Points 🔥 |
+
+You can check out the project leaderboard here : [SWOC Leaderboard](https://github.com/prathimacode-hub/FarmArk/blob/main/.github/swoc_leaderboard.md)
+
+
 <h2>✨Hall Of Fame</h2>   
 
 Thanks goes to these Wonderful People. Contributions of any kind are welcome!🚀 
