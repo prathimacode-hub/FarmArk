@@ -45,7 +45,7 @@ This app endorses with all the listed features stated below and a one-stop solut
 
 **Programming Language : Python**
 
-**Framework : Flask**
+**Framework : Flask/Django**
 
 **Dashboard, Smart Solutions : Internet Of Things**
 
@@ -103,6 +103,8 @@ This project was a part of these open source programs.
 </table>
 
 
+<!--
+
 <h2> 📊 Points Category</h2>
 
 | Level of Issues | Points Allocated |
@@ -114,6 +116,7 @@ This project was a part of these open source programs.
 
 You can check out the project leaderboard here : [SWOC Leaderboard](https://github.com/prathimacode-hub/FarmArk/blob/main/.github/swoc_leaderboard.md)
 
+-->
 
 <h2>✨Hall Of Fame</h2>   
 
