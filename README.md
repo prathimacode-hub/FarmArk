@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Welcome to FarmArk 👋🎆</h1>
+  <h1>Welcome to FarmArk 👋🌱</h1>
   <h3>Website for FarmArk Project Repo: <a href="https://prathimacode-hub.github.io/FarmArk/">Click Here!</a></h3>
 </div>
 
@@ -16,7 +16,7 @@
 </p> 
 
 
-## 📌Repository
+## 📌 Repository
 
 Agriculture is the backbone of our country (India) and a way of livelihood for most of the people. It's a major sector that contributes to our country’s economy. Kudos to all the farmers who puts in their efforts and sweat to provide food for the well being. 
 
@@ -29,17 +29,17 @@ Agriculture is the backbone of our country (India) and a way of livelihood for m
 FarmArk is an app designed for facilitation of farmers and address them with all the needed farming solutions for their greens to prosper and excel. So the aim behind developing this portal is to provide a platform for farmers to make their lives easier and efficient!!.🚀 
 
 
-## 💡Features
+## 💡 Features
 
 This app endorses with all the listed features stated below and a one-stop solution for all their farmer needs.
 
 
-## 🙌Join Here
+## 🙌 Join Here
 
  Warm invite to all the individuals who are looking forward to play their roles as a developer to label the pressing needs faced by farmers. 
  
 
-## 🔑Tech Stacks
+## 🔑 Tech Stacks
 
 
 **FrontEnd : HTML, CSS, JS**
@@ -64,7 +64,7 @@ Go through the contributing guidelines [here](https://github.com/prathimacode-hu
 Subsequently, also go through the GitHub documentation on [creating a pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request).
 
 
-## 🛠Templates to Follow
+## 🛠 Templates to Follow
 
 - [Feature request](https://github.com/prathimacode-hub/FarmArk/blob/main/.github/issue_template/feature_request.md)
 - [Bug Report](https://github.com/prathimacode-hub/FarmArk/blob/main/.github/issue_template/bug_report.md)
@@ -88,7 +88,7 @@ Subsequently, also go through the GitHub documentation on [creating a pull reque
 > print("Start contributing for FarmArk")
 
 
- ## ❄️Open Source Programs
+ ## ❄️ Open Source Programs
  
 <table>
 <tr>
@@ -102,26 +102,12 @@ Subsequently, also go through the GitHub documentation on [creating a pull reque
 </table>
 
 
-<!--
-Achievements
-Content
-Leaderboard
+## 🏆 Achievements of this Project Repo 🎉
 
-<h2> 📊 Points Category</h2>
-
-| Level of Issues | Points Allocated |
-| - | - |
-| Beginner | 10 Points 🔰|
-| Easy | 20 Points 🌱|
-| Medium | 30 Points 🌕|
-| Hard | 40 Points 🔥 |
-
-You can check out the project leaderboard here : [SWOC Leaderboard](https://github.com/prathimacode-hub/FarmArk/blob/main/.github/swoc_leaderboard.md)
-
--->
+**:one: Recognized as the "BEST MENTOR" for the project ['FarmArk'](https://github.com/prathimacode-hub/FarmArk) in OpenCode CSI RAIT 2022.**</br>
 
 
-## ✨Hall Of Fame   
+## ✨ Hall Of Fame   
 
 Thanks goes to these Wonderful People. Contributions of any kind are welcome!🚀 
 
@@ -138,17 +124,17 @@ Thanks goes to these Wonderful People. Contributions of any kind are welcome!�
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
 
-## 📜Code Of Conduct
+## 📜 Code Of Conduct
 
 You can find our Code of Conduct [here](https://github.com/prathimacode-hub/FarmArk/blob/main/CODE_OF_CONDUCT.md).
 
 
-## 📝License 
+## 📝 License 
 
 This project follows the [General Public License 3.0](https://github.com/prathimacode-hub/FarmArk/blob/main/LICENSE).
 
 
-## 😎Project Admin
+## 😎 Project Admin
 
 <table>
   <tr>
@@ -160,7 +146,7 @@ This project follows the [General Public License 3.0](https://github.com/prathim
 ![Visitor Count](https://profile-counter.glitch.me/{prathimacode-hub}/count.svg)
 
 
-## ⭐Give this Project a Star
+## ⭐ Give this Project a Star
 
 [![GitHub followers](https://img.shields.io/github/followers/prathimacode-hub.svg?label=Follow%20@prathimacode-hub&style=social)](https://github.com/prathimak88/)  [![Twitter Follow](https://img.shields.io/twitter/follow/prathimak88?style=social)](https://twitter.com/prathimak88)
 
@@ -174,7 +160,7 @@ If you liked working on this project, do ⭐ and share this repository.
 <sup><kbd>***[Click Here](https://github.com/prathimacode-hub/prathimacode-hub/blob/main/GitHub%20Projects/OpenSource-Projects.md)***</kbd> *to view my open source projects.</sup>* <br> -->
 
 
-## 📬Contact
+## 📬 Contact
 
 If you want to contact me, you can reach me through below handles.
 
