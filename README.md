@@ -4,7 +4,7 @@
 </div>
 
 <p align="center">
-<img src="https://github.com/prathimacode-hub/prathimacode-hub/blob/main/CoverPhotos/FarmArk.png"></a>
+<img src="https://github.com/prathimacode-hub/prathimacode-hub/blob/main/Cover%20Photos/FarmArk.png"></a>
 </p>
 
 <p align="center">
@@ -93,10 +93,10 @@ Subsequently, also go through the GitHub documentation on [creating a pull reque
 <table>
 <tr>
  <td align="center">
-<a href="https://csirait.in/opencode/"><img src="" width=100px height=100px /><br /><sub><b>OpenCode CSI RAIT 2022</b></sub></a>
+<a href="https://csirait.in/opencode/"><img src="https://github.com/prathimacode-hub/prathimacode-hub/blob/main/Open%20Source%20Programs/OpenCode%20CSIRAIT%202022/OpenCode%20Logo.png" width=100px height=100px /><br /><sub><b>OpenCode CSI RAIT 2022</b></sub></a>
  </td>
  <td align="center">
-<a href="https://swoc.tech/"><img src="" width=100px height=100px /><br /><sub><b>Script Winter Of Code 2021</b></sub></a>
+<a href="https://swoc.tech/"><img src="https://github.com/prathimacode-hub/prathimacode-hub/blob/main/Open%20Source%20Programs/Script%20Winter%20Of%20Code%202021/Script%20Winter%20Of%20Code.jpg" width=100px height=100px /><br /><sub><b>Script Winter Of Code 2021</b></sub></a>
  </td>
 </tr>
 </table>
@@ -138,7 +138,7 @@ This project follows the [General Public License 3.0](https://github.com/prathim
 
 <table>
   <tr>
-<td align="center"><a href="https://github.com/prathimacode-hub"><img src="https://github.com/prathimacode-hub/prathimacode-hub/blob/main/Prathima%20updated%20profile%20pic.jpg" width="80px;" alt=""/><br /><sub><b>Prathima Kadari</b></sub></a></td>
+<td align="center"><a href="https://github.com/prathimacode-hub"><img src="https://github.com/prathimacode-hub/prathimacode-hub/blob/main/Profile%20Assets/Prathima-Kadari-Picture.png" width="100px;" alt=""/><br /><sub><b>Prathima Kadari</b></sub></a></td>
   </tr>
 </table>
 
