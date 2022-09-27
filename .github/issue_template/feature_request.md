@@ -9,7 +9,7 @@ Assignee: ''
 
 Define You:
 
-- [ ] OpenCode Participant 
+- [ ] Hacktoberfest Participant 
 - [ ] Contributor
 
 
