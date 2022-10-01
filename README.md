@@ -142,6 +142,7 @@ This project follows the [General Public License 3.0](https://github.com/prathim
 <table>
   <tr>
 <td align="center"><a href="https://github.com/"><img src="" width="100px;" alt=""/><br /><sub><b>Isha Shaw</b></sub></a></td>
+<td align="center"><a href="https://github.com/"><img src="" width="100px;" alt=""/><br /><sub><b>Sanskar Dwivedi</b></sub></a></td>
   </tr>
 </table>
 
