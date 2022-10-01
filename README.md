@@ -137,6 +137,15 @@ You can find our Code of Conduct [here](https://github.com/prathimacode-hub/Farm
 This project follows the [General Public License 3.0](https://github.com/prathimacode-hub/FarmArk/blob/main/LICENSE).
 
 
+## 😎 Hacktoberfest Mentor
+
+<table>
+  <tr>
+<td align="center"><a href="https://github.com/"><img src="" width="100px;" alt=""/><br /><sub><b>Isha Shaw</b></sub></a></td>
+  </tr>
+</table>
+
+
 ## 😎 Project Admin
 
 <table>
