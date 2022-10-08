@@ -3,7 +3,7 @@
 Landless or marginal farmers lack the resources to either buy or lease more land or invest in farm infrastructure. In order to mitigate this agrarian crisis in the current status quo, there is a need for better recommendation systems to alleviate the crisis by helping the farmers to make an informed decision before starting the cultivation of crops.
 
 <p align="center">
-  <img width="600" height="325" src="https://i.pinimg.com/originals/c8/e5/cc/c8e5cc4d0ae0147b2ec8aa10748dd831.gif">
+  <img width="600" height="350" src="https://images.pexels.com/photos/96715/pexels-photo-96715.jpeg?auto=compress&cs=tinysrgb&w=600">
 </p>
 
 To recommend optimum crops to be cultivated by farmers based on several parameters and help them make an informed decision before cultivation
