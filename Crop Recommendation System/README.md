@@ -39,6 +39,8 @@ The machine learning model used in this project will firstly have to be generate
 ---
 
 ## 🎯**RESULTS**
+![Model Accuracy](https://user-images.githubusercontent.com/36481036/194697877-c1fa0675-318c-4cae-9891-0077af95bcff.png)
+
 ![Prediction](https://user-images.githubusercontent.com/36481036/194696690-b1c9b9fd-3827-4367-96a8-343ca39f8ef9.png)
 
 
