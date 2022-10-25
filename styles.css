@@ -70,3 +70,17 @@ a:hover:after {
     color: rgba(45, 21, 0, 1) !important;
     padding-top: 0.3125rem;
 }
+
+.page-footer {
+    background-image: url(./assets/footer.webp);
+    background-size: cover;
+    color: rgba(45, 21, 0, 1) !important;
+}
+
+footer.page-footer a {
+    color: rgba(45, 21, 0, 1);
+}
+
+.font-weight-bold {
+    font-weight: 700;
+}
