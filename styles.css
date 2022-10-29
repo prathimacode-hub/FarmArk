@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,500;0,800;1,800&display=swap');
+
 * {
     margin: 0;
     padding: 0;
@@ -83,4 +85,83 @@ footer.page-footer a {
 
 .font-weight-bold {
     font-weight: 700;
+}
+
+/* BLOGS STYLING */
+.blogs-container{
+    display: flex;
+    /* flex-direction: column; */
+    /* align-items: center; */
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+.blogs h1{
+    margin: 1rem;
+    font-weight: 500;
+    font-size: 52px;
+
+}
+.blog-card{
+    display: flex;
+    /* border: 2px solid #012B3A; */
+    position: relative;
+    height: 300px;
+    width: 40%;
+    margin: 1rem;
+    border-radius: 10px;
+    box-shadow:  2px 2px 1px #d9d9d9;
+                
+} 
+.blog-card .blog-img {
+    width: 35%;
+    height: 100%;
+    
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    /* border-right: 2px solid #012B3A; */
+    margin-right: .2rem;
+    
+
+}
+.blog-card .blog-img img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    border-radius: 10px 0 0 10px;
+}
+
+.blog-card .blog-content{
+    padding: 10px;
+    width: 55%;
+    height: 100%;
+}
+.blog-card .blog-content h2{
+    font-size: 1.5rem;
+    font-weight: 700;
+    margin-bottom: 1rem;
+}
+.blog-card .blog-content p{
+    font-size: 1rem;
+    font-weight: 500;
+    margin-bottom: 1rem;
+}
+.blog-card .blog-content .blog-btn{
+    display: inline-block;
+    padding: 10px 20px;
+    border-radius: 5px;
+    background-color: #012B3A;
+    color: #fff;
+    text-decoration: none;
+    font-size: 1rem;
+    font-weight: 200;
+    transition: all 0.3s ease;
+    position: relative;
+    top: 15%;
+}
+.blog-card .blog-content .blog-btn:hover{
+    background-color: #fff;
+    color: #012B3A;
+    border: 1px solid #012B3A;
+
 }
