@@ -224,3 +224,86 @@ footer.page-footer a {
     
 }
 
+/* Styling For ABOUT US Page */
+.aboutUs .heading{
+    background-image: url("./assets/aboutUs-img/aboutUs-img1.png");
+    padding: 40px;
+    color: #fff;
+    height: 40vh;
+    background-size: cover;
+    position: relative;
+}
+.aboutUs .heading h1{
+    margin-top: 40px;
+    font-size: 50px;
+    text-align: center;
+    font-weight: 700;
+    
+}
+.aboutUs .aboutUsText,.vision{
+    padding: 40px;
+    background-color: #fff;
+    color: #000;
+    font-size: 20px;
+    font-weight: 500;
+    display: flex;
+    justify-content: space-between;
+    /* border: 2px solid #000; */
+}
+.aboutUs .aboutUsText p{
+    width: 50%;
+    position: relative;
+    top: 200px;
+}
+.aboutUs .aboutUsText #animation{
+    width:40%;
+    box-shadow: 0 0 1px 0 rgba(0,0,0,0.2);
+}
+
+.aboutUs .vision .visionText{
+    width: 50%;
+    position: relative;
+    
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+} 
+.aboutUs .vision .visionText p{
+    margin-top: 100px;
+    
+
+}
+.aboutUs  .servicesList{
+   /* display: flex;
+   flex-direction: column;
+   width: 95%; */
+   
+
+   
+}
+.aboutUs  .servicesList h1{
+    text-align: center;
+    color: #000;
+    font-size: 80px;
+   
+
+}
+/* .aboutUs .servicesList{
+    display: flex;
+    flex-direction: column;
+} */
+.aboutUs .servicesList .service{
+    display: flex;
+    
+    justify-content: space-around;
+    flex-wrap: wrap;
+    padding: 40px;
+
+    
+}
+.aboutUs .servicesList .service .serviceText{
+    width: 50%;
+}
+.aboutUs .servicesList .service #animation{
+   width: 50%;
+}
